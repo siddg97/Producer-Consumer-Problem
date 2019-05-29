@@ -1,0 +1,12 @@
+Citations:
+		- 	https://pubs.opengroup.org : for understanding useage of <semaphores.h>
+		
+		-	https://www.eecs.wdu.edu/~cs150/reading/printf.htm : for knowledge on printf() 			formatting techniques for stats_display()
+		
+		- 	www.man7.ord : for documentation on <pthread.h>
+		
+		-	Lecture Slides on course webpage
+		
+		- 	Valgrind document link provided with Assignment 2 description on course webpage
+
+		-	
